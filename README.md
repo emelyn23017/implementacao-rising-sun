@@ -37,3 +37,6 @@ O código base do Método Rising Sun pode ser adquirido a partir do seguinte rep
 3. Crie as seguintes pastas *VAZIAS* no ambiente "x": XANES-csv e XANES-derivatives, essas pastas armazenarão os arquivos .csv e os valores de primeira e segunda derivada, que são gerados pelo cógido TESTE.py;
 4. No JupyterLab abra o notebook RUN.ipynb;
 5. Execute o código! É esperado que o código processe o arquivo .xdi e realize a identificação dos pontos a partir da plotagem do gráfico entitulado: XANES spectrum with marked peaks. Observação: Por hora, gráficos e textos anteriores a identificação de pontos são mostrados pelo notebook RUN.ipynb.
+
+## Dúvidas, comentários ou sugestões? :)
+Entre em contato: emelyn23017@ilum.cnpem.br, [LinkedIn - Emelyn Alves](https://www.linkedin.com/in/emelyn-alves-5362532a0/), +5519987208765. 
