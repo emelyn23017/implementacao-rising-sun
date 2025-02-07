@@ -8,7 +8,7 @@ Emelyn Alves <sup>1</sup>, James Moraes de Almeida <sup>1</sup> e Santiago José
 
 Este trabalho é parte do projeto "MÉTODOS DE APRENDIZADO DE MÁQUINA A PARTIR DE ESPECTROS DE RAIOS X USANDO SIMULAÇÕES E DESCRIPTORES", desenvolvido por [Cauê Gomes Correia dos Santos](https://github.com/CaueSantos1812) e Emelyn Alves durante a disciplina de Iniciação à Pesquisa III do 4º semestre do curso de Bacharelado em Ciência e Tecnologia da Ilum, Escola de Ciência. 
 
-_Para mais informações sobre o projeto, baixe o arquivo 'relatorio', neste github. Para acessar o trabalho completementar realizado no projeto, acesse: [RisingSun_Oxidation](https://github.com/CaueSantos1812/RisingSun_Oxidation)
+* Para mais informações sobre o projeto, baixe o arquivo 'relatorio', neste github. Para acessar o trabalho complementar realizado no projeto, acesse: [RisingSun_Oxidation](https://github.com/CaueSantos1812/RisingSun_Oxidation)
 
 Este trabalho visa implementar o Método Rising-Sun, descrito no artigo [“The Rising Sun Envelope Method: an automatic and accurate peak location technique for XANES measurements”](https://pubs.acs.org/doi/epdf/10.1021/acs.jpca.9b11712?ref=article_openPDF), para a identificação automática e precisa de máximos e mínimos nos espectros XANES, utilizando linguagem de programação Python e arquivos '.xdi' da biblioteca [Cruzeiro do Sul Utils](https://github.com/jamesmalmeida/Cruzeiro-do-Sul-Utils). A implementação pode facilitar a comparação de espectros, aprimorando a análise de dados na linha de luz QUATI (QUick x-ray Absorption spectroscopy for TIme and space-resolved experiments) e possibilitando futuras aplicações com aprendizado de máquina.
 
@@ -26,7 +26,7 @@ O código base do Método Rising Sun pode ser adquirido a partir do seguinte rep
 - Python - linguagem de programação utilizada no script; 
 - Arquivos .xdi - formato de arquivo processado pelo código;
 
-##  Arquivos
+##  Arquivos do repositório
 - TESTE.py: script em Pyhton da implementação do Método Rising Sun, nele há todas as funções necessárias para a execução do código;
 - RUN.ipynb: notebook em Jupyter que executa o script;
 - CZDS_Utils: pasta de arquivos .py para biblioteca Cruzeiro do Sul Utils; 
